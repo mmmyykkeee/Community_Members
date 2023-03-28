@@ -57,6 +57,7 @@ flowchart LR
 - ### **K**
 - ### **L**
 - ### **M**
+    [Michael Mbugua] (https://github.com/mmmyykkeee)
 [Moses Borore](https://github.com/mosesborore)
 - ### **N**
 - ### **O**
